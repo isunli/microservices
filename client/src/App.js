@@ -6,7 +6,7 @@ function App() {
     <div className="container">
       <PostCreate />
       <hr />
-      <h1>Posts</h1>
+      <h1>Posts!!</h1>
       <PostList />
     </div>
   );
